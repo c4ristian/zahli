@@ -1,7 +1,7 @@
 # Zahli
 
 ## What is it?
-Zahli is a simple German voice / speech bot that performs calculations.
+Zahli is a simple German voice/speech bot that performs calculations.
 
 ## Main Features
 The application provides the following functionality:

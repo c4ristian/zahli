@@ -1,0 +1,19 @@
+# YAML for setting up a conda environment for
+# the zahli project
+name: zahli
+channels:
+#  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.8.2
+  - pytest
+  - pytest-cov
+  - pylint
+  - SpeechRecognition
+  - pyaudio
+  - aubio
+  - portaudio
+  - pywin32
+  - pip
+  - pip:
+      - pyttsx3
